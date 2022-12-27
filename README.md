@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </h2>
 
 <div id="header" align="center">
-  <img width="300" src="./Panda4.PNG">
+  <img width="300" src="./Panda-blue.PNG">
 </div>
 
 <div id="badges" align="center">
