@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h2 align="center">
+  Hey There
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h2>
+
 <div id="header" align="center">
   <img width="300" src="./Panda.PNG">
 </div>
@@ -28,4 +33,18 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+---
+
+### :bust_in_silhouette: About Me :
+
+
+- :four_leaf_clover: I’m an undergraduate at SLIIT and currently studying full-stack web development .
+
+- :rocket: Exploring Software Engineering and related fields.
+
+- ::earth_americas: I often find myself, learning new technologies and completing extra courses, whenever I have some time to spare
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
