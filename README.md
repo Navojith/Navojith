@@ -16,5 +16,16 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="./Panda.PNG">
+  <img width="300" src="./Panda.PNG">
 </div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/pawara-navojith-aa607a208/">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.facebook.com/pawara.navojith.374">
+    <img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+
