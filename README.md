@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 - :rocket: Exploring Software Engineering and related fields.
 
-- ::earth_americas: I often find myself, learning new technologies and completing extra courses, whenever I have some time to spare
+- :earth_americas: I often find myself, learning new technologies and completing extra courses, whenever I have some time to spare
 
 ---
 
